@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokedexApps</string>
+    <string name="splash_icon">splash icon</string>
+    <string name="image_sprites">Image Sprites</string>
+    <string name="ability">Ability</string>
+
+    <string name="menu_1">Menu 1</string>
+    <string name="masukkan_nama">Masukkan Nama...</string>
+</resources>
